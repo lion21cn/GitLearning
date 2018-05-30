@@ -1,0 +1,13 @@
+1.初始化创键仓库
+ 
+git init
+
+
+查看远程仓库路径
+
+git remote -v
+
+
+pb https://git.oschina.net/lion21cn/test2.git
+
+
